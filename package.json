@@ -1,13 +1,11 @@
 {
   "name": "nodejs-typescript-devcontainer-template",
-  "version": "0.0.1",
-  "description": "",
-  "main": "index.ts",
+  "version": "1.0.0",
   "scripts": {
     "lint:fix": "eslint --fix src; prettier --write src"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Souhei.H",
+  "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.3.0",
     "@typescript-eslint/parser": "^6.3.0",
