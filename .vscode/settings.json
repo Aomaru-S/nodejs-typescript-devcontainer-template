@@ -1,0 +1,6 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "prettier.configPath": "/workspaces/nodejs-typescript-devcontainer-template/.prettier.json"
+}
