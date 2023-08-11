@@ -2,6 +2,7 @@
   "name": "nodejs-typescript-devcontainer-template",
   "version": "1.0.0",
   "scripts": {
+    "start": "ts-node src/main.ts",
     "lint:fix": "eslint --fix src; prettier --write src"
   },
   "author": "Souhei.H",
